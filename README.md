@@ -20,7 +20,7 @@ A simple and clean restaurant website built using **HTML** and **basic CSS**.
 ## ✨ Author
 
 **Arivarasu B**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn]www.linkedin.com/in/arivarasu7
 📧 arivarasuarivaraasu729@gmail.com
 
 ---
